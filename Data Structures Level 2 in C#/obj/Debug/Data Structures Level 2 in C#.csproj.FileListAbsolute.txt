@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Data Structures Level 2 in C#\bin\Debug\Data Structures Level 2 in C#.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Data Structures Level 2 in C#\bin\Debug\Data Structures Level 2 in C#.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Data Structures Level 2 in C#\bin\Debug\Data Structures Level 2 in C#.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Data Structures Level 2 in C#\obj\Debug\Data Structures Level 2 in C#.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Data Structures Level 2 in C#\obj\Debug\Data Structures Level 2 in C#.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Data Structures Level 2 in C#\obj\Debug\Data Structures Level 2 in C#.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Data Structures Level 2 in C#\obj\Debug\Data Structures Level 2 in C#.pdb
