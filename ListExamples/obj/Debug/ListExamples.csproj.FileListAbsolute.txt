@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\bin\Debug\ListExamples.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\bin\Debug\ListExamples.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\bin\Debug\ListExamples.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\obj\Debug\ListExamples.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\obj\Debug\ListExamples.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\obj\Debug\ListExamples.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\obj\Debug\ListExamples.pdb

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Structures Level 2 in C#", "Data Structures Level 2 in C#\Data Structures Level 2 in C#.csproj", "{83798F10-E778-49DA-B60D-356952D0DAB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExamples", "ListExamples\ListExamples.csproj", "{BF28C415-3346-4FC3-8352-963FA7A67379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{83798F10-E778-49DA-B60D-356952D0DAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83798F10-E778-49DA-B60D-356952D0DAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83798F10-E778-49DA-B60D-356952D0DAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF28C415-3346-4FC3-8352-963FA7A67379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF28C415-3346-4FC3-8352-963FA7A67379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF28C415-3346-4FC3-8352-963FA7A67379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF28C415-3346-4FC3-8352-963FA7A67379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
