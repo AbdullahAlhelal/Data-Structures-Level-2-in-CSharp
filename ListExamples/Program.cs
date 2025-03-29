@@ -228,11 +228,14 @@ namespace ListExamples
             // Waiting for a key press before closing the console window
             Console.ReadKey();
         }
+
+     
         static void Main(string[] args)
         {
 
             Example1();
             Looping();
+            Exploring_Contains_Exists_Find_FindAll_and_Any_with_List();
         }
     }
 }
