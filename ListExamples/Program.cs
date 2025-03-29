@@ -9,6 +9,23 @@ namespace ListExamples
     internal class Program
     {
 
+        static void AggregatingData()
+        {
+            // List initialization
+            List<int> numbers = new List<int> { 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 };
+
+
+            // Aggregation operations
+            Console.WriteLine("Sum: " + numbers.Sum());
+            Console.WriteLine("Average: " + numbers.Average());
+            Console.WriteLine("Minimum: " + numbers.Min());
+            Console.WriteLine("Maximum: " + numbers.Max());
+            Console.WriteLine("Count: " + numbers.Count());
+
+
+            // Waiting for a key press
+            Console.ReadKey();
+        }
         static void Looping()
         {
 
@@ -45,6 +62,7 @@ namespace ListExamples
             // Waiting for a key press before closing the console window
             Console.ReadKey();
         }
+
         static void RemoveItems()
         {// List initialization
             List<int> numbers = new List<int> { 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 };
@@ -140,6 +158,7 @@ namespace ListExamples
         {
 
             Example1();
+            Looping();
         }
     }
 }
