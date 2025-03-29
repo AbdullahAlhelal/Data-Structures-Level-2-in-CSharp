@@ -146,7 +146,7 @@ namespace ListExamples
 
       
             // Default Sorting (Ascending)
-            numbers.Sort(,);
+            numbers.Sort();
             Console.WriteLine("Sorted in Ascending Order: " + string.Join(", " , numbers));
 
 
