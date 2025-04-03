@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Dictionary Example\bin\Debug\Dictionary Example.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Dictionary Example\bin\Debug\Dictionary Example.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Dictionary Example\bin\Debug\Dictionary Example.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Dictionary Example\obj\Debug\Dictionary Example.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Dictionary Example\obj\Debug\Dictionary Example.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Dictionary Example\obj\Debug\Dictionary Example.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Dictionary Example\obj\Debug\Dictionary Example.pdb

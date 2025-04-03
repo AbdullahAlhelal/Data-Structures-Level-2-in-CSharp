@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Structures Level 2 in 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExamples", "ListExamples\ListExamples.csproj", "{BF28C415-3346-4FC3-8352-963FA7A67379}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary Example", "Dictionary Example\Dictionary Example.csproj", "{0A9A792B-508F-43DE-A828-B1E8D8E444D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BF28C415-3346-4FC3-8352-963FA7A67379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF28C415-3346-4FC3-8352-963FA7A67379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF28C415-3346-4FC3-8352-963FA7A67379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9A792B-508F-43DE-A828-B1E8D8E444D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9A792B-508F-43DE-A828-B1E8D8E444D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9A792B-508F-43DE-A828-B1E8D8E444D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9A792B-508F-43DE-A828-B1E8D8E444D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
