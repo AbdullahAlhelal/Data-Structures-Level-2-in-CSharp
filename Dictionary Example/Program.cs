@@ -34,6 +34,15 @@ namespace Dictionary_Example
                 Console.WriteLine($"Fruit: {item.Key}, Quantity: {item.Value}");
             }
 
+            if ( fruitBasket.TryGetValue("Apple" , out int appleQuantity1) )
+            {
+                Console.WriteLine($"Apple quantity: {appleQuantity1}");
+            }
+            else
+            {
+                Console.WriteLine("Apple not found in the basket.");
+            }
+
         }
     }
 }
