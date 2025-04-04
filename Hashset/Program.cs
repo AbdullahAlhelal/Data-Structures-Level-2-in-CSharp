@@ -9,6 +9,28 @@ namespace Hashset
 {
     internal class Program
     {
+        #region OperationwithHashSet
+        static void IntersectionOperationwithHashSet()
+        {
+        }
+        static void UnionOperationwithHashSetin()
+        {
+            HashSet<int> set1 = new HashSet<int> { 1 , 2 , 3 };
+            HashSet<int> set2 = new HashSet<int> { 3 , 4 , 5 };
+
+
+            // Union of set1 and set2
+            set1.UnionWith(set2);
+
+
+            Console.WriteLine("Union of sets:");
+            foreach ( int item in set1 )
+            {
+                Console.WriteLine(item);
+            }
+            Console.ReadKey();
+        }
+        #endregion
 
         static void UsingHashSetwithLINQ()
         {
@@ -41,6 +63,7 @@ namespace Hashset
             Console.ReadKey();
 
         }
+
         static void UsingHashSettoRemoveDuplicates()
         {
             // Array with duplicate values
@@ -130,6 +153,7 @@ namespace Hashset
 
             CheckingforExistenceinHashSet();
             RemovingElementsfromHashSet();
+            UnionOperationwithHashSetin();
         }
     }
 }
