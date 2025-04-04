@@ -10,6 +10,23 @@ namespace Hashset
     internal class Program
     {
 
+        static void UsingHashSettoRemoveDuplicates()
+        {
+            // Array with duplicate values
+            int[] array = new int[] { 1 , 2 , 2 , 3 , 4 , 4 , 5 };
+
+
+            // Initializing a HashSet with the array
+            HashSet<int> uniqueNumbers = new HashSet<int>(array);
+
+
+            // Displaying the unique elements
+            foreach ( int number in uniqueNumbers )
+            {
+                Console.WriteLine(number);
+            }
+            Console.ReadKey();
+        }
         static void RemovingElementsfromHashSet()
         {
 
