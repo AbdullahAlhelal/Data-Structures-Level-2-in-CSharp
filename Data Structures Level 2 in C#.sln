@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExamples", "ListExample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary Example", "Dictionary Example\Dictionary Example.csproj", "{0A9A792B-508F-43DE-A828-B1E8D8E444D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashset", "Hashset\Hashset.csproj", "{1D795458-9847-437C-9B2C-E22752356A96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0A9A792B-508F-43DE-A828-B1E8D8E444D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A9A792B-508F-43DE-A828-B1E8D8E444D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A9A792B-508F-43DE-A828-B1E8D8E444D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D795458-9847-437C-9B2C-E22752356A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D795458-9847-437C-9B2C-E22752356A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D795458-9847-437C-9B2C-E22752356A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D795458-9847-437C-9B2C-E22752356A96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
