@@ -5,3 +5,10 @@ D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Hashset\ob
 D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Hashset\obj\Debug\Hashset.csproj.CoreCompileInputs.cache
 D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Hashset\obj\Debug\Hashset.exe
 D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\Hashset\obj\Debug\Hashset.pdb
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Hashset\bin\Debug\Hashset.exe.config
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Hashset\bin\Debug\Hashset.exe
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Hashset\bin\Debug\Hashset.pdb
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Hashset\obj\Debug\Hashset.csproj.AssemblyReference.cache
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Hashset\obj\Debug\Hashset.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Hashset\obj\Debug\Hashset.exe
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Hashset\obj\Debug\Hashset.pdb

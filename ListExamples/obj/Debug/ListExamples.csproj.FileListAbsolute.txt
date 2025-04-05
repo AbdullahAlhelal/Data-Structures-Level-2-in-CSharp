@@ -5,3 +5,10 @@ D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExampl
 D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\obj\Debug\ListExamples.csproj.CoreCompileInputs.cache
 D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\obj\Debug\ListExamples.exe
 D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\ListExamples\obj\Debug\ListExamples.pdb
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\ListExamples\bin\Debug\ListExamples.exe.config
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\ListExamples\bin\Debug\ListExamples.exe
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\ListExamples\bin\Debug\ListExamples.pdb
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\ListExamples\obj\Debug\ListExamples.csproj.AssemblyReference.cache
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\ListExamples\obj\Debug\ListExamples.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\ListExamples\obj\Debug\ListExamples.exe
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\ListExamples\obj\Debug\ListExamples.pdb

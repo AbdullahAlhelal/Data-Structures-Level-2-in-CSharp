@@ -1,0 +1,7 @@
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Sorted List\bin\Debug\Sorted List.exe.config
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Sorted List\bin\Debug\Sorted List.exe
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Sorted List\bin\Debug\Sorted List.pdb
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Sorted List\obj\Debug\Sorted List.csproj.AssemblyReference.cache
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Sorted List\obj\Debug\Sorted List.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Sorted List\obj\Debug\Sorted List.exe
+C:\Users\abdullah\Source\Repos\Data-Structures-Level-2-in-CSharp\Sorted List\obj\Debug\Sorted List.pdb
