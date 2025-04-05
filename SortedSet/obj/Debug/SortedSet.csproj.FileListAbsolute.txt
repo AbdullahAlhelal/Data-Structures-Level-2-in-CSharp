@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedSet\bin\Debug\SortedSet.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedSet\bin\Debug\SortedSet.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedSet\bin\Debug\SortedSet.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedSet\obj\Debug\SortedSet.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedSet\obj\Debug\SortedSet.pdb
