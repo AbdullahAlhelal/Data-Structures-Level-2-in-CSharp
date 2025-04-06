@@ -1,0 +1,7 @@
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedDictionary\bin\Debug\SortedDictionary.exe.config
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedDictionary\bin\Debug\SortedDictionary.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedDictionary\bin\Debug\SortedDictionary.pdb
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedDictionary\obj\Debug\SortedDictionary.csproj.AssemblyReference.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedDictionary\obj\Debug\SortedDictionary.csproj.CoreCompileInputs.cache
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedDictionary\obj\Debug\SortedDictionary.exe
+D:\Trraining c#\CSharpProgrammingLevel2\Data Structures Level 2 in C#\SortedDictionary\obj\Debug\SortedDictionary.pdb
